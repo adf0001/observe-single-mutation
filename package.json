@@ -1,0 +1,26 @@
+{
+  "name": "observe-single-mutation",
+  "version": "1.0.1",
+  "description": "call MutationObserver.observe() for single object (the last one), default for single attribute.",
+  "main": "observe-single-mutation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MutationObserver.observe",
+    "single"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/observe-single-mutation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/observe-single-mutation/issues"
+  },
+  "homepage": "https://github.com/adf0001/observe-single-mutation#readme"
+}
